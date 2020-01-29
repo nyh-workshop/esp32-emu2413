@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "i2s.h": "c",
+        "periph_ctrl.h": "c",
+        "future": "cpp",
+        "optional": "cpp",
+        "chrono": "cpp",
+        "random": "cpp",
+        "limits": "cpp",
+        "algorithm": "cpp"
+    }
+}
